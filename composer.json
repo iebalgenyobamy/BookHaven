@@ -1,0 +1,7 @@
+{
+  "require": {
+    "tecnickcom/tcpdf": "^6.5",
+    "setasign/fpdi": "^2.3",
+    "smalot/pdfparser": "^2.0"
+  }
+}
